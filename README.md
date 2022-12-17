@@ -10,7 +10,8 @@
 -> Objective of the game is to avoid the Bowser every time he attacks and score as much as possible!
 -> Challenge your friends to beat your high score!
 -> Keyboard Controls:
-  ![Keyboard Controls](https://user-images.githubusercontent.com/56593096/208244122-96d3e312-a5e0-4d71-a89a-2314716cc97f.JPG)
+
+![Keyboard Controls](https://user-images.githubusercontent.com/56593096/208244122-96d3e312-a5e0-4d71-a89a-2314716cc97f.JPG)
 
 -> Designed Game Application in HTML, CSS and JavaScript
 -> Developed front end of the application in HTML and CSS
